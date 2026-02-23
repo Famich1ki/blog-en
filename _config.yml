@@ -13,7 +13,8 @@ timezone: Asia/Tokyo
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://findfuns.org
+url: https://findfuns.org/en
+root: /en/
 permalink: :year/:month/:day/:post_title/
 permalink_defaults:
 pretty_urls:
