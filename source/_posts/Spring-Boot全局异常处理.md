@@ -3,7 +3,7 @@ title: Global Exception Handling in Spring Boot
 date: 2024-09-16 18:01:40
 tags: 
   - Spring Boot
-  - 异常处理
+  - Exception Handling
 categories:
   - [Spring Boot, Exception Handling]
 cover: https://pics.findfuns.org/exception-handling.png   

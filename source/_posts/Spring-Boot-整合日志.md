@@ -3,7 +3,7 @@ title: Spring Boot Logging Integration
 date: 2024-08-30 19:05:59
 tags:
   - Spring Boot
-  - 日志
+  - Log
 categories:
   - [Spring Boot, Log]
 cover: https://pics.findfuns.org/springboot.png
