@@ -1,5 +1,5 @@
 ---
-title: hearthstone database Summary
+title: Hearthstone Database Summary
 date: 2024-08-27 14:19:50
 tags:
   - Spring Boot

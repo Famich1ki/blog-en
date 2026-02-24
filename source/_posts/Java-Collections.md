@@ -1,5 +1,5 @@
 ---
-title: Java集合原理和底层数据结构总结
+title: Summary of Java Collections Principles and Underlying Data Structures
 date: 2024-08-25 23:05:58
 tags: 
   - Java
