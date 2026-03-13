@@ -9,10 +9,9 @@ cover: https://pics.findfuns.org/python.jpg
 ---
 
 
+# List
 
-### List
-
-##### Using the `join() ` method to concatenate all elements in a list.
+### Using the `join() ` method to concatenate all elements in a list.
 
 ```python
 list = ["this", "is", "an", "example", "of", "using", "join()", "method"]
@@ -24,14 +23,14 @@ print(new_list)
 # this - is - an - example - of - using - join() - method
 ```
 
-##### Using the `split()   ` method to split a string into a list.
+### Using the `split()   ` method to split a string into a list.
 
 ```python
 print(new_list.split(seperator))
 # ['this', 'is', 'an', 'example', 'of', 'using', 'join()', 'method']
 ```
 
-### Set
+# Set
 
 `intersection()` , `difference()` , `union()`
 
@@ -50,9 +49,9 @@ print(set_1.union(set_2))
 #{1, 2, 3, 4}
 ```
 
-### Dictionary
+# Dictionary
 
-##### Indexing VS `get()`
+### Indexing VS `get()`
 
 `get()` returns `None` instead of raising a `KeyError` if the key does not exist.
 
@@ -72,7 +71,7 @@ print(dict_1["phone"])
 #KeyError: 'phone'
 ```
 
-##### `keys()` , `values()`, `items()`
+### keys()` , `values()`, `items()`
 
 ```python
 print(dict_1.keys()) 
@@ -87,7 +86,7 @@ for k, v in dict_1.items():
 #age - 24
 ```
 
-### `format()`
+# `format()`
 
 ```python
 name = '4pril'
@@ -96,7 +95,7 @@ print("name is {}".format(name))
 # name is 4pril
 ```
 
-### * and **
+# * and **
 
 ```python
 def func(*args, **kwargs):
