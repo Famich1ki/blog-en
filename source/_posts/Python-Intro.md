@@ -71,7 +71,7 @@ print(dict_1["phone"])
 #KeyError: 'phone'
 ```
 
-### keys()` , `values()`, `items()`
+### `keys()` , `values()`, `items()`
 
 ```python
 print(dict_1.keys()) 
